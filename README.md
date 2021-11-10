@@ -2,7 +2,7 @@
    
    Welcome to my Github page! 🎉
    
-  🌱 I’m interested in and currently learning these technologies: ⬇️
+  🌱 I’m interested and currently learning these technologies: ⬇️
   
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" width="100" height="100" alt="HTML5"/> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" width="100" height="100" alt="CSS3"/> 
    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" width="80" height="80"/> 
